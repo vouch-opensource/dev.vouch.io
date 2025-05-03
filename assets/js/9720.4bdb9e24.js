@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite_generator_docusaurus=self.webpackChunksite_generator_docusaurus||[]).push([[9720],{39720:(e,r,s)=>{s.d(r,{createArchitectureServices:()=>u.S});var u=s(49936);s(19369)}}]);

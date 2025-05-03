@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite_generator_docusaurus=self.webpackChunksite_generator_docusaurus||[]).push([[890],{10890:(e,s,r)=>{r.d(s,{createInfoServices:()=>u.v});var u=r(97021);r(19369)}}]);

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="59.313"
+   height="59.321499"
+   viewBox="0 0 59.313 59.321499"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="Vouch-Positive.svg"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.7745098"
+     inkscape:cx="153"
+     inkscape:cy="30.095406"
+     inkscape:window-width="956"
+     inkscape:window-height="1041"
+     inkscape:window-x="0"
+     inkscape:window-y="18"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <g
+     clip-path="url(#clip0_1_2)"
+     id="g7">
+    <path
+       d="M 59.313,51.9044 H 29.6565 v 7.4171 H 59.313 Z"
+       fill="#000000"
+       id="path1" />
+    <path
+       d="M 59.313,29.6633 H 29.6565 v 7.4171 H 59.313 Z"
+       fill="#000000"
+       id="path2" />
+    <path
+       d="M 29.6565,0 H 0 v 7.41711 h 29.6565 z"
+       fill="#000000"
+       id="path3" />
+    <path
+       d="M 29.6565,44.4924 H 0 v 7.4171 h 29.6565 z"
+       fill="#000000"
+       id="path4" />
+    <path
+       d="M 29.6565,22.2462 H 0 v 7.4171 h 29.6565 z"
+       fill="#000000"
+       id="path5" />
+    <path
+       d="M 59.313,7.41711 H 29.6565 V 14.8342 H 59.313 Z"
+       fill="#000000"
+       id="path6" />
+  </g>
+  <defs
+     id="defs7">
+    <clipPath
+       id="clip0_1_2">
+      <rect
+         width="306"
+         height="60"
+         fill="#ffffff"
+         id="rect7"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+</svg>

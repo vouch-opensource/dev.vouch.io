@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite_generator_docusaurus=self.webpackChunksite_generator_docusaurus||[]).push([[6452],{6452:(e,s,r)=>{r.d(s,{createPacketServices:()=>u.$});var u=r(71609);r(19369)}}]);
